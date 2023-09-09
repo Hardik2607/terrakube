@@ -6,7 +6,7 @@ variable "AWS_SECRET_ACCESS_KEY" {
 default = ""
 }
 
-variable "REGION" {
+variable "AWS_DEFAULT_REGION" {
 default = ""
 }
 
